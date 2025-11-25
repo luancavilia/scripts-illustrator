@@ -8,5 +8,5 @@ Coleção de scripts desenvolvidos para automatizar tarefas repetitivas no Illus
 3. Selecione o arquivo baixado.
 
 ## Scripts disponíveis
-* **AjustarPreto.jsx:** Altera a porcentagem de preto (K) em objetos CMYK mantendo as outras cores.
+* **AjusteCMYK_Completo.jsx:** Altera a porcentagem de preto (K) em objetos CMYK mantendo as outras cores.
 * **EtiquetarCores.jsx:** Cria uma legenda com a cor CMYK abaixo de cada objeto selecionado.
