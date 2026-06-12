@@ -10,3 +10,5 @@ Coleção de scripts desenvolvidos para automatizar tarefas repetitivas no Illus
 ## Scripts disponíveis
 * **AjusteCMYK_Completo.jsx:** Altera a porcentagem de todas as cores CMYK simultâneamente em objetos CMYK.
 * **EtiquetarCores.jsx:** Cria uma legenda com a cor CMYK abaixo de cada objeto selecionado.
+* **GabaritoYawa.jsx:** Cria um retângulo com traçado verde 1,8 cm afastado dos objetos selecionados.
+* **GabaritoLeque.jsx:** Cria um retângulo com traçado verde 0,5 cm afastado dos objetos selecionados.
